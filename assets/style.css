@@ -1,0 +1,49 @@
+   body, html {
+            margin: 0px;
+            padding: 0px;
+            background-color: fuchsia;
+        }
+        h1 {
+            font-size: 60px;
+            margin: 0px 0px 15px 0px;
+        }
+        #h3 {
+            font-size: 40px;
+        }
+        section {
+            
+            color:white;
+        }
+        #contact{
+            color: black;
+            position:relative;
+            bottom: 70px;
+           
+           
+        }
+        #bio{
+            text-align:center;
+            float:Middle;
+            background-color:black;
+            margin: 0px;
+
+            
+        }
+        #h2{
+            font-size 40px;
+        }
+        .Nick {
+            float:left;
+            width:33%;
+            
+        }
+        .bold {
+            font-weight: bold;
+        }
+        li {
+            list-style: none;
+        }
+        a {
+            text-decoration:none;
+            color:slategrey
+        }
