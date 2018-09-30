@@ -1,0 +1,19 @@
+a {
+    border: solid 1px black;
+    padding:20px;
+    background-color:gray;
+
+}
+
+a:hover {
+    background-color:red;
+}
+
+#form-input {
+
+}
+
+
+#form-input:focus {
+    background-color:teal;
+}

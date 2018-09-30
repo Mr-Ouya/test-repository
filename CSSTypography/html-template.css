@@ -1,0 +1,18 @@
+h1 {
+    line-height:50px;
+    font-weight: 100px;
+    font-family: serif;
+}
+
+
+h3 {
+    font-size:20px;
+    line-height: 40px;
+    font-weight: 600px;
+}
+p {
+    line-height:25px;
+    font-size:20px;
+    font-weight: 100;
+    font-family: 'Notable', sans-serif;
+}
